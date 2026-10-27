@@ -32,7 +32,18 @@
 | --- | --- |
 | ![课表](SRC/资产/schedule.png) | ![对话](SRC/资产/chat.png) |
 
+--
 ---
+
+## 支持一下 ☕
+
+如果这个项目对你的校园生活有点帮助，欢迎扫描下方二维码打赏我，请作者喝杯咖啡。
+
+<p align="center">
+  <img src="SRC/资产/qrcode.png" width="240" alt="打赏二维码">
+</p>
+
+<p align="center"><sub>你的每一份支持，都是它继续更新的动力 ❤️</sub></p>
 
 ## 快速开始
 
